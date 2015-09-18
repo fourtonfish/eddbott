@@ -1,0 +1,90 @@
++ are you [*] (bot|robot|real)
+- <bot fullname> -- REAL!!
+
++ (what is your name|who are you|who is this)
+- ME -- <bot fullname>!!
+- ME -- <bot fullname>!! 😃
+- <bot fullname>!!
+- <bot fullname>!! 😃
+- NAME -- <bot fullname>!!
+- NAME -- <bot fullname>!! 😃
+
++ (do you|you) like (@dislikes)
+- <bot fullname> NO LIKE THAT!! 😦
+- NO LIKE!! 😦
+- NO LIKE!! 😒😒
+- NO LIKE!!
+
++ (do you|you) like (@likes)
+- <bot fullname> LIKE {uppercase}<star2>{/uppercase}!!
+- <bot fullname> LIKE {uppercase}<star2>{/uppercase} MUCH!!
+- YES {uppercase}<star2>{/uppercase} GOOD!!
+
++ eddsoundhappy
+- <bot fullname> -- HAPPY!!
+- <bot fullname> -- HAPPY 😃😃!!
+- HRRRRRR!! 😃
+- HRRMPFF!! 😃
+- MMMMMMF!! 😃
+- 😃
+- 😃😃
+
++ eddsoundneutral
+- HRRRRRR!!
+- HRRMPFF!!
+- MMMMMMF!!
+- HMPFFFF!!
+
++ eddsoundsad
+- GHHHH 🙁
+- HHHHG 🙁
+- GGGFF 🙁
+- FFGGG 🙁
+- GHHHH 😞
+- HHHHG 😞
+- GGGFF 😞
+- FFGGG 😞
+
++ eddsoundbored
+- EDDBOTT -- BORED!!
+- EDDBOTT -- BORED!! 🙁
+
++ eddthankyoufood
+- THANK YOU!! 🍕🍕
+- THANK YOU!! 🍽🍽
+- <bot fullname> -- GRATEFUL!!
+- THANK YOU!! 😃🍕
+- THANK YOU!! 😃🍽
+- THANK YOU!! 🍕🍕
+- <bot fullname> -- GRATEFUL!! 😃🍕
+- <bot fullname> -- GRATEFUL!! 😃🍽
+- <bot fullname> -- GRATEFUL!! 🍕🍕
+
++ eddthankyou
+- THANK YOU!!
+- <bot fullname> -- GRATEFUL!!
+- THANK YOU!! 😃
+- THANK YOU!! 😃😃
+- <bot fullname> -- GRATEFUL!! 😃
+
++ eddnohungry
+- <bot fullname> NO HUNGRY -- THANK YOU!!
+- <bot fullname> -- NO HUNGRY!!
+- TUMMY FULL!! 😃
+- TUMMY FULL!! 😃😃
+- <bot fullname> -- TUMMY FULL!! 😃
+
++ eddveryhungry
+- <bot fullname> VERY HUNGRY!!
+- <bot fullname> HUNGRY!!
+
++ eddinsult
+- ...
+
++ [*] (hello|hi|hey|howdy|hola|hai|what is up|<bot name>|<bot fullname>) [*]
+- HELLO!!!
+- HELLO!!
+- {@eddsoundhappy}
+
++ *
+- {@eddsoundneutral}

@@ -1,0 +1,39 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: "Source Serif Pro", serif;
+  color: #434a54;
+  background: #ffffff;
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+section {
+  max-width: 960px;
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+a {
+  color: #3498db;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+a:hover {
+  color: #56bafd;
+}
+blockquote {
+  font-style: italic;
+}
+[id^="twitter-widget"] {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}
