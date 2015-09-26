@@ -2,7 +2,7 @@
 
 **NOTE: THIS IS A VERY EARLY, WORK-IN-PROGRESS VERSION. ALSO, THE BOT IS NOT ACTIVE RIGHT NOW.**
 
-I am making the source code publicly because I just don't have enough time to work on all my side projects. It would be great if someone was interested in collaborating on this.
+I am making the source code publicly available, because I just don't have enough time to work on all my side projects. It would be great if someone was interested in collaborating on this.
 
 Below are hastily written instructions and notes. You can reach out to me on [Twitter](https://twitter.com/fourtonfish), [via email](mailto:stefan@fourtonfish.com) or even better, find me on [Botmakers.org](https://botmakers.org/).
 
